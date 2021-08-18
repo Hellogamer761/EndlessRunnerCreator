@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EndlessRunnerCreator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\EndlessRunnerCreatorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunnerCreator\EndlessRunnerCreator.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunnerCreator\MyCharacter.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunnerCreator\EndlessRunnerCreator.init.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunnerCreator\MyCharacter.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunnerCreator\Default.rc2.res"
+/OUT:"D:\Somak Unreal Engine Game Projects\EndlessRunnerCreator\Intermediate\Build\Win64\UE4Editor\Development\EndlessRunnerCreator\UE4Editor-EndlessRunnerCreator.lib"
+/INCLUDE:IMPLEMENT_MODULE_EndlessRunnerCreator

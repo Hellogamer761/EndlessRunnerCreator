@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EndlessRunnerCreator",
+			"Path": "D:\\Somak Unreal Engine Game Projects\\EndlessRunnerCreator\\Source\\EndlessRunnerCreator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EndlessRunnerCreatorEditor",
+			"Path": "D:\\Somak Unreal Engine Game Projects\\EndlessRunnerCreator\\Source\\EndlessRunnerCreatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

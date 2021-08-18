@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Somak Unreal Engine Game Projects\\EndlessRunnerCreator\\Source\\EndlessRunnerCreator\\EndlessRunnerCreator.Build.cs",
+		"D:\\Somak Unreal Engine Game Projects\\EndlessRunnerCreator\\Source\\EndlessRunnerCreator.Target.cs",
+		"D:\\Somak Unreal Engine Game Projects\\EndlessRunnerCreator\\Source\\EndlessRunnerCreatorEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

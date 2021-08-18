@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EndlessRunnerCreator.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F9870C03-F59D-49D5-A99F-8FBBA72D3DD2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EndlessRunnerCreator.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EndlessRunnerCreatorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\EndlessRunnerCreator.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{F2D65C38-A151-49B9-BDE5-AC6662609D27}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EndlessRunnerCreator">
+      <UniqueIdentifier>{86E4989A-3888-4314-A0DB-7534D25F5DB1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EndlessRunnerCreator\EndlessRunnerCreator.Build.cs">
+      <Filter>Source\EndlessRunnerCreator</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EndlessRunnerCreator\EndlessRunnerCreator.cpp">
+      <Filter>Source\EndlessRunnerCreator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunnerCreator\EndlessRunnerCreator.h">
+      <Filter>Source\EndlessRunnerCreator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EndlessRunnerCreator\MyCharacter.cpp">
+      <Filter>Source\EndlessRunnerCreator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunnerCreator\MyCharacter.h">
+      <Filter>Source\EndlessRunnerCreator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
