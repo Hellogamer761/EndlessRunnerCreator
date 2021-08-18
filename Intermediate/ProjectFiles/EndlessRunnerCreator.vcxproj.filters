@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\EndlessRunnerCreator.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F9870C03-F59D-49D5-A99F-8FBBA72D3DD2}</UniqueIdentifier>
+      <UniqueIdentifier>{77892F86-B588-43F7-BDC7-FE07465DBA53}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\EndlessRunnerCreator.Target.cs">
       <Filter>Source</Filter>
@@ -11,9 +11,11 @@
     <None Include="..\..\Source\EndlessRunnerCreatorEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\EndlessRunnerCreator.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F2D65C38-A151-49B9-BDE5-AC6662609D27}</UniqueIdentifier>
+      <UniqueIdentifier>{46FA5B7D-286D-4141-8A13-75DAF0D8DA59}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\EndlessRunnerCreator">
-      <UniqueIdentifier>{86E4989A-3888-4314-A0DB-7534D25F5DB1}</UniqueIdentifier>
+      <UniqueIdentifier>{2DD6BAD6-539C-40F0-B87B-E57246813235}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\EndlessRunnerCreator\EndlessRunnerCreator.Build.cs">
       <Filter>Source\EndlessRunnerCreator</Filter>

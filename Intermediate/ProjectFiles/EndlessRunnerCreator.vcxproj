@@ -287,6 +287,8 @@
     <None Include="..\..\EndlessRunnerCreator.uproject"/>
     <None Include="..\..\Source\EndlessRunnerCreator.Target.cs"/>
     <None Include="..\..\Source\EndlessRunnerCreatorEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\EndlessRunnerCreator.png"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
